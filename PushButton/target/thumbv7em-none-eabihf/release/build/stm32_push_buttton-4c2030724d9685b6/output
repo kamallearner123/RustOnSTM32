@@ -1,0 +1,2 @@
+cargo:rustc-link-search=.
+cargo:rerun-if-changed=memory.x
